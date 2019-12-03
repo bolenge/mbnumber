@@ -1,0 +1,36 @@
+{
+  "name": "mbnumber",
+  "version": "0.1.0",
+  "description": "Module contenant des méthodes qui permettent de gérer les entier, vérifier si c'est un entier valide, un chiffre et autres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "int",
+    "float",
+    "isFloat",
+    "is_float",
+    "double",
+    "is_double",
+    "integer",
+    "isInt",
+    "is_int",
+    "intValid",
+    "isIntValid",
+    "is_int_valid",
+    "valid_int",
+    "number",
+    "is_number",
+    "isNumber",
+    "typeNumber",
+    "type",
+    "nombre",
+    "entier",
+    "valide",
+    "verify",
+    "int"
+  ],
+  "author": "Don de Dieu Bolenge",
+  "license": "ISC"
+}
