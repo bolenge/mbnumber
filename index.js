@@ -1,5 +1,5 @@
 /**
- * Module avec des méthodes qui traitent les nombres et les entiers
+ * Module avec des méthodes qui traitent les nombres en Javascript
  */
 
 /**

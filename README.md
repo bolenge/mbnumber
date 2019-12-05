@@ -19,6 +19,6 @@ let value = "34";
 if (mbn.isIntValid(value)) {
     console.log("Correct");
 }else {
-    console.log("Invalid number")
+    console.log("Invalid integer")
 }
 ```
