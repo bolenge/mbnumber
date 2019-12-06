@@ -8,11 +8,17 @@
  * @return {Boolean}
  */
 exports.isIntValid = (value) => {
-    value = parseInt(value)
+    let regex = /\./
 
-    if (value > 0) {
-        return true;
+    if (regex.test(value)) {
+        return false
     }
 
-    return false;
+    value = parseInt(value);
+
+    if (value) {
+        return true
+    }
+
+    return false
 }
