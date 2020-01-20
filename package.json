@@ -1,6 +1,6 @@
 {
   "name": "mbnumber",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Module contenant des méthodes qui permettent de gérer les entier, vérifier si c'est un entier valide, un chiffre et autres",
   "main": "index.js",
   "scripts": {

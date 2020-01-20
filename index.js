@@ -8,7 +8,7 @@
  * @return {Boolean}
  */
 exports.isIntValid = (value) => {
-    let regex = /\./
+    let regex = /\.|[a-z]/i
 
     if (regex.test(value)) {
         return false
